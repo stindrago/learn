@@ -97,7 +97,7 @@ Expected Output
 2.138888888888889
 ```
 
-- [ ] **10.**Write a Java program to compute a specified formula.
+- [ ] **10.** Write a Java program to compute a specified formula.
 
 ```
 Specified Formula :
