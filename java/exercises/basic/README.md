@@ -1,7 +1,9 @@
 ## Java Basic Exercises [150]
 
 ### Info
-Exercises from w3resources
+Exercises from w3resources.
+
+[Basic Exercises 150](https://www.w3resource.com/java-exercises/basic/index.php)
 
 ### Exercises
 - [ ] **1.** Write a Java program to print 'Hello' on screen and then print your name on a separate line.
@@ -11,7 +13,9 @@ Expected Output :
 Hello
 Alexandra Abramov
 ```
-[**Resolution**](eue)
+
+[**Resolution**](exercise_1.java)
+
 [**Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-1.php)
 
 - [ ] **2.** Write a Java program to print the sum of two numbers.
