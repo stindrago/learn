@@ -14,8 +14,8 @@ Hello
 Alexandra Abramov
 ```
 
-[**Resolution**](exercise_1.java)  
-[**Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-1.php)
+[**🔗 Resolution**](exercise_1.java)  
+[**🔗 Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-1.php)
 
 - [ ] **2.** Write a Java program to print the sum of two numbers.
 
