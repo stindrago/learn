@@ -152,7 +152,7 @@ Expected Output
 ==============================================
 ```
 
-- [ ] **15.** Write a Java program to swap two variables. Go to the editor
+- [ ] **15.** Write a Java program to swap two variables.
 
 
 - [ ] **16.** Write a Java program to print a face.
