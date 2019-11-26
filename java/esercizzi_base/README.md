@@ -705,7 +705,7 @@ Input the second number: 7
 5
 ```
 
-- [ ] *66.** Write a Java program to compute the sum of the first 100 prime numbers.
+- [ ] **66.** Write a Java program to compute the sum of the first 100 prime numbers.
 
 ```
 Sample Output:
@@ -896,7 +896,8 @@ true
 - [ ] **86.** Write a Java program start with an integer n, divide n by 2 if n is even or multiply by 3 and add 1 if n is odd, repeat the process until n = 1.
 
 
-- [ ] **87.** Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English.
+
+- [ ] **87.** Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English.  
 
 
 - [ ] **88.** Write a Java program to get the current system environment and system properties.
