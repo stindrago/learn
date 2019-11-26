@@ -226,7 +226,7 @@ Input Data:
 Input a binary number: 100
 Expected Output
 
-Decimal Number: 4 
+Decimal Number: 4
 ```
 
 - [ ] **23.** Write a Java program to convert a binary number to hexadecimal number.
@@ -896,8 +896,7 @@ true
 - [ ] **86.** Write a Java program start with an integer n, divide n by 2 if n is even or multiply by 3 and add 1 if n is odd, repeat the process until n = 1.
 
 
-
-- [ ] **87.** Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English.  
+- [ ] **87.** Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English.
 
 
 - [ ] **88.** Write a Java program to get the current system environment and system properties.
@@ -955,7 +954,7 @@ true
 
 
 - [ ] **106.** Write a Java program to create a new array that is left shifted from a given array of integers.
-```
+
 
 - [ ] **107.** Write a Java program to check if an array of integers contains three increasing adjacent numbers.
 
@@ -967,6 +966,7 @@ true
 
 
 - [ ] **110.** Write a Java program to check whether an given integer is a power of 4 or not.
+
 ```
 Given num = 64, return true. Given num = 6, return false.
 ```
@@ -1004,8 +1004,9 @@ true
 
 - [ ] **116.** Write a Java program which iterates the integers from 1 to 100. For multiples of three print "Fizz" instead of the number and print "Buzz" for the multiples of five. When number is divided by both three and five, print "fizz buzz".
 
-```
+
 - [ ] **117.** Write a Java program to compute the square root of an given integer.
+```
 Input a positive integer: 25
 Square root of 25 is: 5
 ```
@@ -1026,10 +1027,8 @@ Example: For linked list 20->40->60->80, the reversed linked list is 80->60->40-
 ```
 
 - [ ] **122.** Write a Java program to find a contiguous subarray with largest sum from a given array of integers.
-
-```
 Note: In computer science, the maximum subarray problem is the task of finding the contiguous subarray within a one-dimensional array of numbers which has the largest sum. For example, for the sequence of values −2, 1, −3, 4, −1, 2, 1, −5, 4; the contiguous subarray with the largest sum is 4, −1, 2, 1, with sum 6. The subarray should contain one integer at least.
-```
+
 
 - [ ] **123.** Write a Java program to find the subarray with smallest sum from a given array of integers.
 
@@ -1095,13 +1094,17 @@ Source Array : [10, 20, 10, 20, 30, 40, 40, 30, 50] 50 appears only once
 ```
 
 - [ ] **130.** Write a Java program to find the maximum depth of a given a binary tree.
+
+```
 Sample Output: The Maximum depth of the binary tree is: 3
 ```
 
 - [ ] **131.** Write a Java program to find the new length of a given sorted array where each element appear only once (remove the duplicates ).
 
 ```
-Original array: [1, 1, 2, 3, 3, 3, 4, 5, 6, 7, 7] The length of the original array is: 11 After removing duplicates, the new length of the array is: 7
+Original array: [1, 1, 2, 3, 3, 3, 4, 5, 6, 7, 7]
+The length of the original array is: 11
+After removing duplicates, the new length of the array is: 7
 ```
 
 - [ ] **132.** Write a Java program to find the new length of a given sorted array where duplicate elements appeared at most twice.
@@ -1123,7 +1126,15 @@ Sample Output: Sum of all numbers along its path: 13
 
 ```
 Example: n = 5
-a) 1+1+1+1+1 = 5 b) 1+1+1+2 = 5 c) 1+2+2 = 5 d) 2+2+1 = 5 e) 2+1+1+1 = 5 f) 2+1+2 = 5 g) 1+2+1+1 = 5 h) 1+1+2+1 = 5
+a) 1+1+1+1+1 = 5
+b) 1+1+1+2 = 5
+c) 1+2+2 = 5
+d) 2+2+1 = 5
+e) 2+1+1+1 = 5
+f) 2+1+2 = 5
+g) 1+2+1+1 = 5
+h) 1+1+2+1 = 5
+
 Sample Output: Distinct ways can you climb to the top: 8
 ```
 
