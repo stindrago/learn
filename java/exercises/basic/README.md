@@ -17,7 +17,7 @@ Alexandra Abramov
 [**--> Resolution**](exercise_1.java)  
 [**--> Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-1.php)
 
-- [ ] **2.** Write a Java program to print the sum of two numbers.
+- [x] **2.** Write a Java program to print the sum of two numbers.
 
 ```
 Test Data:
@@ -25,8 +25,10 @@ Test Data:
 Expected Output :
 110
 ```
+[**--> Resolution**](exercise_2.java)  
+[**--> Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-2.php)
 
-- [ ] **3.** Write a Java program to divide two numbers and print on the screen.
+- [x] **3.** Write a Java program to divide two numbers and print on the screen.
 
 ```
 Test Data :
@@ -35,7 +37,10 @@ Expected Output :
 16
 ```
 
-- [ ] **4.** Write a Java program to print the result of the following operations.
+[**--> Resolution**](exercise_3.java)  
+[**--> Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-3.php)
+
+- [x] **4.** Write a Java program to print the result of the following operations.
 
 ```
 Test Data:
@@ -49,6 +54,9 @@ Expected Output :
 19
 13
 ```
+
+[**--> Resolution**](exercise_4.java)  
+[**--> Solution**](https://www.w3resource.com/java-exercises/basic/java-basic-exercise-4.php)
 
 - [ ] **5.** Write a Java program that takes two numbers as input and display the product of two numbers.
 
