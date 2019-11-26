@@ -456,10 +456,11 @@ x-windows-iso2022jp
 Expected Output
 
 The ASCII value of Z is :90
-
-Click me to see the solution
+```
 
 - [ ] **42.** Write a Java program to input and display your password.
+
+```
 Expected Output
 
 Input your Password:
@@ -489,6 +490,8 @@ Input number: 5
 ```
 
 - [ ] **45.** Write a Java program to find the size of a specified file.
+
+```
 Sample Output:
 
 /home/students/abc.txt  : 0 bytes
@@ -504,6 +507,8 @@ Current Date time: Fri Jun 16 14:17:40 IST 2017
 ```
 
 - [ ] **47.** Write a Java program to display the current date time in specific format.
+
+```
 Sample Output:
 
 Now: 2017/06/16 08:52:03.066
@@ -564,6 +569,8 @@ The integer value is: 25
 ```
 
 - [ ] **52.** Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer.
+
+```
 Sample Output:
 
 Input the first number : 5
@@ -613,6 +620,7 @@ Sample Output:
 ```
 
 - [ ] **57.** Write a Java program to accepts an integer and count the factors of the number.
+
 ```
 Sample Output:
 
@@ -621,6 +629,7 @@ Input an integer: 25
 ```
 
 - [ ] **58.** Write a Java program to capitalize the first letter of each word in a sentence.
+
 ```
 Sample Output:
 
@@ -638,6 +647,7 @@ the quick brown fox jumps over the lazy dog.
 ```
 
 - [ ] **60.** Write a Java program to find the penultimate (next to last) word of a sentence.
+
 ```
 Sample Output:
 
