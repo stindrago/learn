@@ -1,6 +1,7 @@
 ## Java Basic Exercises [150]
 
-1. Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+- [ ] **1.** Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+- [x] 4444
 
 ```
 Expected Output :
@@ -8,7 +9,7 @@ Hello
 Alexandra Abramov
 ```
 
-2. Write a Java program to print the sum of two numbers.
+1. Write a Java program to print the sum of two numbers.
 
 ```
 Test Data:
@@ -17,7 +18,7 @@ Expected Output :
 110
 ```
 
-3. Write a Java program to divide two numbers and print on the screen.
+1. Write a Java program to divide two numbers and print on the screen.
 
 ```
 Test Data :
