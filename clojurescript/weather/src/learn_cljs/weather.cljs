@@ -9,7 +9,7 @@
 (defn multiply [a b] (* a b))
 
 ;; define your app data so that it doesn't get over-written on reload
-(defonce app-state (atom {:text "Hello world!"}))
+(defonce app-state (atom {:text "Live reloading s!"}))
 
 (defn get-app-element []
   (gdom/getElement "app"))
@@ -19,8 +19,13 @@
    [:h1 "I say: " (:text @app-state)]
    [:h3 "Edit this in src/learn_cljs/weather.cljs and watch it change!"]])
 
+(defn greeter []
+  [:div
+   [:p "Hello, " (:text @app-state)]
+   [:h3 "Edit this in src/learn_cljs/weather.cljs and watch it change!"]])
+
 (defn mount [el]
-  (rdom/render [hello-world] el))
+  (rdom/render [ hello-world] el))
 
 (defn mount-app-element []
   (when-let [el (get-app-element)]
